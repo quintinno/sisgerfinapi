@@ -1,9 +1,13 @@
 insert into tb_categoria_lancamento_financeiro (descricao) values ('Salário Mensalista');
-insert into tb_categoria_lancamento_financeiro (descricao) values ('Consóricio Pessoa Física');
-insert into tb_categoria_lancamento_financeiro (descricao) values ('Consóricio Pessoa Jurídica');
+insert into tb_categoria_lancamento_financeiro (descricao) values ('Consórcio Pessoa Física');
+insert into tb_categoria_lancamento_financeiro (descricao) values ('Consórcio Pessoa Jurídica');
 insert into tb_categoria_lancamento_financeiro (descricao) values ('Doação Pessoa Física');
 insert into tb_categoria_lancamento_financeiro (descricao) values ('Doação Pessoa Jurídica');
 insert into tb_categoria_lancamento_financeiro (descricao) values ('Empréstimo Pessoa Física (Concessão)');
 insert into tb_categoria_lancamento_financeiro (descricao) values ('Empréstimo Pessoa Jurídica (Concessão)');
 insert into tb_categoria_lancamento_financeiro (descricao) values ('Empréstimo Pessoa Física (Pagamento)');
 insert into tb_categoria_lancamento_financeiro (descricao) values ('Empréstimo Pessoa Jurídica (Pagamento)');
+insert into tb_categoria_lancamento_financeiro (descricao) values ('Supermercado');
+insert into tb_categoria_lancamento_financeiro (descricao) values ('Açougue');
+insert into tb_categoria_lancamento_financeiro (descricao) values ('Consultas Médicas');
+insert into tb_categoria_lancamento_financeiro (descricao) values ('Despesas Domésticas');
